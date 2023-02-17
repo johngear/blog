@@ -1,0 +1,3 @@
+## i don't know
+
+1. When you first arrive to a place, for the first ~2 months, you are acutely aware of this. This is part of what makes travel fun, that your brain is constantly receivign stimuli that's like "woah this is not where I normally am". This is also what makes it difficult to be a nomad-- if you move before there is familirarity, then you are constantly adding an additioanl layer of stimulus. When this is what you're after-- its good. But often it can be bad

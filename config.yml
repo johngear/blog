@@ -1,5 +1,44 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Testing this I hope it works. Final test before I work on something of a different character. 
+title: johngearig.com
 
 theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: Hey, I'm John.
+        Content: >
+              I’m a recently graduated computer engineer and lover-of-philosophy who’s looking to start working soon. I spent 5 years at Michigan studying electrical and computer engineering, learning about machine learning. Recently finished a year in London, where I studied philosophy of science, thinking about the implications of AI.
+              Now, I’m looking for a role in machine learning engineering, AI alignment or something related. You can learn about my background more [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). Say hi if you think there’s a good fit! You can reach me via email at jckgearig AT gmail dot com
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/johngear"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/john-gearig/"
+        - name: gmail
+          url: "mailto:jckgearig@gmail.com"
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: About me
+                  url: about/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: LinkedIn
+                  url: https://www.linkedin.com/in/john-gearig/
+                - name: Github
+                  url: https://github.com/johngear
+

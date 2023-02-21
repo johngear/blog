@@ -18,10 +18,9 @@ Now that I’ve finished school, I’m on the job market. I’d really like to w
 
 ### Personal
 
-A lot of people who I look up to in tech have websites like this, where they talk about themselves a bit more than they’d be comfortable doing outside of interviews. Mostly though, I want a place to write in a somewhat-published format, since I don’t have to turn writings in any longer. 
+I believe that physical exercise is an important part of a good life, and helps enable fun outdoor activities. I consider myself an expert downhill skier, a proficient golfer and a bad outdoor rock climber that got into the sport before it was popular.
 
-I believe that exercise is an important part of a good life, and helps enable fun outdoor activities. I consider myself an expert downhill skier, a proficient golfer and a bad outdoor rock climber that got into the sport before it was popular.
+Lately, I’ve been spending time meditating, following a secular Buddhist-style practice. The promises of a regular practice (improved focus, equanimity, sensory clarity, pain without suffering, and overall greater happiness) appeal to me greatly. I think that people who regularly meditate can arrive at an understanding of how conscious experience works that is slightly different in nature from that which a philosopher or a neuroscientist would. I don’t suppose that I will end up as an expert meditator, but it may help me think about intelligence and sentience in a new way. 
 
-Lately, I’ve been spending time meditating, following a secular but Buddhist-based practice. The promises of a regular practice (improved focus, equanimity, sensory clarity, pain without suffering, and overall greater happiness) appeal to me greatly. I think that people who regularly meditate can arrive at an understanding of how conscious experience works that is slightly different in nature from that which a philosopher or a neuroscientist would. I don’t suppose that I will end up as an expert meditator, but it may help me think about intelligence and sentience in a new way. 
+I like music, as nearly everyone does, but I think it’s fun to sit and focus entirely on a song or album. I picked up this habit from playing trumpet for 10+ years, going to countless concerts of various genres, and collecting audio equipment and vinyl. 
 
-I like music, as nearly everyone does, but I think it’s fun to sit and focus entirely on a song or album. I picked up this habit from playing trumpet for 10+ years, and collecting audio equipment and vinyl. 

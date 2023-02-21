@@ -8,9 +8,9 @@ params:
     homeInfoParams:
         Title: Hey, I'm John.
         Content: >
-              I’m a recently graduated computer engineer and lover-of-philosophy who’s looking to start working soon. I spent 5 years at Michigan studying electrical and computer engineering, learning about machine learning. Recently finished a year in London, where I studied philosophy of science, thinking about the implications of AI.
-              Now, I’m looking for a role in machine learning engineering, AI alignment or something related. You can learn about my background more [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). Say hi if you think there’s a good fit! You can reach me via email at jckgearig AT gmail dot com
+                I’m a recently graduated computer engineer and lover-of-philosophy who’s on the job market. I spent 5 years at Michigan studying electrical and computer engineering with a focus in machine learning and semiconductors. I recently returned from a funded fellowship in London, where I studied philosophy of science, thinking about the implications of AI.
 
+                Now, I’m looking for a role in **machine learning engineering**, AI alignment or related fields. You can learn more about my background [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). You can reach me at jckgearig AT gmail dot com. Say hi if you think there’s a good fit or just want to talk.
     socialIcons:
         - name: github
           url: "https://github.com/johngear"

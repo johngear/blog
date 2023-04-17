@@ -1,7 +1,7 @@
 ---
 title: "Meditating"
 date: 2023-02-22T11:07:25-07:00
-draft: false
+draft: true
 
 tags: ["sentience","meditation"]
 ShowToc: false

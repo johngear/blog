@@ -10,8 +10,8 @@ params:
         Content: >
                 I’m a recently graduated computer engineer and lover-of-philosophy who’s on the job market. I spent 5 years at Michigan studying electrical and computer engineering with a focus in machine learning and semiconductors. I recently returned from a funded fellowship in London, where I studied philosophy of science, thinking about the implications of AI.
 
-                Now, I’m looking for a role in **machine learning engineering**, AI alignment or related fields. You can learn more about my background [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). You can reach me at jckgearig AT gmail dot com. Say hi if you think there’s a good fit or just want to talk.
-    socialIcons:
+                Now, I’m looking for a role in machine learning engineering, software or data (hopefully with a focus on AI alignment, safety or computer vision). You can learn more about my background [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). You can reach me at jckgearig AT gmail dot com. Say hi if you think there’s a good fit or just want to talk.
+   socialIcons:
         - name: github
           url: "https://github.com/johngear"
         - name: LinkedIn

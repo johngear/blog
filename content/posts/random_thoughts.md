@@ -9,8 +9,14 @@ ShowBreadCrumbs: true
 
 ---
 
-An ongoing list of disjoint thoughts that are worth writing down
+An ongoing list of disjoint thoughts that are worth writing down. Some are old.
 
+### Deep Okay-ness
+
+Based off my recent interest in meditation and a blog post from Sasha Chapin, I've been thinking about the feeling that many describe as a feeling of "deep okay-ness", "persistent self love" or "ambient feeling of good". I think this ought to be the primary goal of most peoples lives-- to have a feeling of good that is independent of external circumstances. It seems like a clear way to improve QALYs, or wellbeing, or however you want to frame good conscious experiences, with no downside. We ought to be studying this more!
+
+### Sentience and Happiness
+In February, I was at yoga and thought about the similarities between sentience and happiness-- namely that they're both impossible to prove to an external agent. Rather, we try to tease out their existence via behavioral evidence, which is imperfect but seems to work alright. I suppose this is clearly true, as a feeling like happiness is dependent on sentience fully, so it'd be impossible to work around the issues of proof. But as I lay there stretching and meditating, I thought it was a bit strange that no one can ever know about others for certain.
 
 ### Moving
 When you first arrive to a place, for the first ~2 months, you are acutely aware of your location. This is part of what makes travel fun, that your brain is constantly receiving stimuli that's like "woah this is not where I normally am". This is also what makes it difficult to be a nomad-- if you move before there is familiarity, then you are constantly adding an additional layer of stimulus. When this is what you're after-- its good. But often it can be bad

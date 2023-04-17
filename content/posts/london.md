@@ -14,7 +14,7 @@ ShowBreadCrumbs: true
 London is the greatest city in the world, and a lovely place to travel to for any length of time. I was lucky to live and study there for a bit more than a year, and often get questions about travel recommendations. After writing a close friend a lengthy message, I thought it'd be best to write a complete document to share to others who ask.
 
 # Things that London does well
-London has particularly good offerings in the following categories. If you were going to build an itinerary, pick your top few categories and try to do something in each. 
+London has particularly good offerings in the following categories. If you were going to build an itinerary, pick your top few categories and try to do something in each. They're in order starting at the best. 
 
 ### 1. Museums
 
@@ -25,7 +25,7 @@ The most of the big London museums (British, Victoria and Albert, National Galle
 
 London has amazing markets all over the city. My favorites:
 * Columbia Road Flower Market (Sunday)
-* Peticoat Lane Clothes Market (Sunday)
+* Petticoat Lane Clothes Market (Sunday)
 * Old Spitalfields Market (every day)
 * Borough Food Market (every day)
 * Brick Lane Market (Saturday)

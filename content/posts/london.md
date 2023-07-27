@@ -9,8 +9,6 @@ ShowBreadCrumbs: true
 
 ---
 
-**Needs another edit**
-
 London is the greatest city in the world, and a lovely place to travel to for any length of time. I was lucky to live and study there for a bit more than a year, and often get questions about travel recommendations. After writing a close friend a lengthy message, I thought it'd be best to write a complete document to share to others who ask.
 
 # Things that London does well

@@ -24,7 +24,7 @@ If, a few months ago-- before they added more safety features to prevent answers
 
 Some of these thoughts arrived after a conversation with a friend, when a popular tech writer had an experience with ChatGPT that left him perplexed about it's internal experience. 
 
-Anyway, even if we're a long ways from sentience, pretending to be sentient in a convincing way still seems like a pretty big deal! And while humans seem pretty unconcerned about a lot of suffering (in animals) chatting with a distressed sounding entity is a different animal, so to speak, 
+Anyway, even if we're a long ways from sentience, pretending to be sentient in a convincing way still seems like a pretty big deal! And while humans seem pretty unconcerned about a lot of suffering (in animals) chatting with a distressed sounding entity is more concrete and compelling.
 
 So I think in the next few year, we'll see groups wanting to grant rights to various computer systems, and we'll see a proliferation of scams using LLMs (most imitating humans, but I suspect some just being computers pleading for help.)
 

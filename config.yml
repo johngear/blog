@@ -20,9 +20,12 @@ params:
         - name: gmail
           url: "mailto:jckgearig@gmail.com"
     assets:
-      favicon: "/favicon.ico"
-      favicon16x16: "/favicon-16x16.png"
-      favicon32x32: "/favicon-32x32.png"
+      isableHLJS: true
+      favicon: "/fav/favicon.ico"
+      favicon16x16: "/fav/favicon-16x16.png"
+      favicon32x32: "/fav/favicon-32x32.png"
+      apple_touch_icon: "/fav/apple-touch-icon.png"
+      # safari_pinned_tab: "<link / abs url>"
 
 languages:
     en:

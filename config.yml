@@ -6,12 +6,23 @@ theme: PaperMod
 
 params:
     homeInfoParams:
-        Title: Hey, I'm John.
-        Content: >
-                I recently made [Philosophy Chat](https://philosophy-chat.com/) and moved to San Francisco, CA. I’m a recently graduated computer engineer with a masters degree in philosophy,  who’s on the job market. I spent 5 years at Michigan studying electrical and computer engineering with a focus in machine learning and semiconductors. I recently returned from a funded fellowship at the London School of Economics, where I studied philosophy of science, specializing in the implications of artificial intelligence. 
-                
-                Now, I’m looking for a role in Software Engineering, Machine Learning or data science, ideally with a focus on AI alignment, safety or computer vision. You can learn more about my background [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). You can reach me at jckgearig AT gmail dot com. Say hi if you think there’s a good fit or just want to talk.
-
+        Title: Hey, it's John.
+        Content: |
+                  This website is to share ideas and explain who I am. A quick timeline:
+                  * 2023 time off to:
+                    * Create projects like [philosophy chat](https://philosophy-chat.com/)
+                    * Be a ski bum in Colorado
+                    * Move between London, Colorado, Chicago and SF
+                  * 2022 grad student at London School of Econ studying Philosophy
+                  * 2022 intern at Dolby Labs working with on-device machine learning on Dolby Vision
+                  * 2021 grad student at Michigan studying machine learning and signal processing
+                  * 2016-2020 at Michigan studying Electrical Engineering
+                  * More [here](/about)
+  # * 2020 intern at Texas Instruments on video processing integrated circuits
+  # * 2019 at Google prototyping hardware products
+#  1. I recently made [Philosophy Chat](https://philosophy-chat.com/) and moved to San Francisco, CA. I’m a recently graduated computer engineer with a masters degree in philosophy,  who’s on the job market. I spent 5 years at Michigan studying electrical and computer engineering with a focus in machine learning and semiconductors. I recently returned from a funded fellowship at the London School of Economics, where I studied philosophy of science, specializing in the implications of artificial intelligence. 
+# 2. Now, I’m looking for a role in Software Engineering, Machine Learning or data science, ideally with a focus on AI alignment, safety or computer vision. You can learn more about my background [here](/about) or on [LinkedIn](https://www.linkedin.com/in/john-gearig/). You can reach me at jckgearig AT gmail dot com. Say hi if you think there’s a good fit or just want to talk.
+# *
     socialIcons:
         - name: github
           url: "https://github.com/johngear"
